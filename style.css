@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.box {
+  margin: 150px auto;
+  width: 70%;
+  height: 450px;
+  background-color: black;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+.inp-box {
+  margin-top: 25px;
+  width: 60%;
+  height: 40px;
+  padding: 15px;
+  outline: none;
+  
+
+}
+
+.jeo{
+  text-transform: capitalize;
+}
+
+.btn-first,
+.btn-two,
+.btn-three,
+.btn-four {
+  width: 85px;
+  height: 35px;
+  margin: 5px;
+  background-color: indigo;
+  border-radius: 3px;
+  border: none;
+  color: aliceblue;
+}
+
+.inp-two {
+
+  margin: 0px auto;
+  width: 80%;
+  height: 35%;
+  border: none;
+  outline: none;
+  background-color: #c3e9eb;
+  border-radius: 15px;
+  color: red;
+  text-align: center;
+  padding: 25px;
+}
